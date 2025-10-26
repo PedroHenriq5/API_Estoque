@@ -1,2 +1,9 @@
+# Variáveis de ambiente (contém senha do banco)
 .env
+
+# Dependências do Node (muito grandes)
 node_modules/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
